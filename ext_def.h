@@ -1,0 +1,5 @@
+
+#define I2C_PIN_SCL D4
+#define I2C_PIN_SDA D15 
+#define PM_SERIAL_RX D23
+#define PM_SERIAL_TX D2_STRAPPING
